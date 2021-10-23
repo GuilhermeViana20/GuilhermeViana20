@@ -4,7 +4,7 @@ Apaixonado por tecnologia, educação, gosto de ensinar e estou disposto a apren
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-viana-b6078a190/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeViana25&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeViana20&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
