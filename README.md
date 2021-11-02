@@ -1,7 +1,9 @@
-### Olá! Eu sou o Guilherme Viana 👋
+### Olá! Eu sou o Guilherme Viana 🙂
 
 Apaixonado por tecnologia, educação, gosto de ensinar e estou disposto a aprender!
 
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585991887855&text=Ol%C3%A1%2C%20Guilherme!)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeviana347@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-viana-b6078a190/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeViana20&show_icons=true&theme=dracula)
