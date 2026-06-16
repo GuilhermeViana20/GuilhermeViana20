@@ -21,7 +21,3 @@ Apaixonado por tecnologia, educação, gosto de ensinar e estou disposto a apren
   <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-<br>
-
-#### "Feliz aquele que transfere o que sabe e aprende o que ensina."
-#### - Cora Coralina
