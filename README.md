@@ -9,8 +9,6 @@ Apaixonado por tecnologia, educação, gosto de ensinar e estou disposto a apren
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana20&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeViana20&show_icons=true&theme=dracula)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block; padding-bottom: 20px">
